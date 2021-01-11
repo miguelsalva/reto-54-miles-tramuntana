@@ -1,5 +1,5 @@
 # Reto 54 miles Serra de Tramuntana
-<h1><img src="images/tramuntana-mallorca.jpg" width="60%" height="60%"></h1>
+<h1><img src="images/tramuntana-mallorca.jpg"></h1>
 
 ❌ 1 Puig Major (1447m) <br>
 ❌ 2 Puig Major espolón NE (1416m) <br>
