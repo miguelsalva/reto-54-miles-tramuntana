@@ -55,6 +55,4 @@
 ❌ 53 Puig de la Criaça d'Alt (1004m) <br>
 ❌ 54 Puig Roig (1003m)  <br>
 <br>
-<br>
-✅ M <br>
-☑️ J <br>
+✅ M  ☑️ J
