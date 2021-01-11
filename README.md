@@ -1,6 +1,6 @@
 # Reto 54 miles Serra de Tramuntana
 
-❌ 1 Puig Major (1447m)
+❌ 1 Puig Major (1447m) <br>
 :x 2 Puig Major espolón NE (1416m)
 :x 3 Penyal des Migdia (1398m)
 :x 4 Puig de Massanella (1367m)
