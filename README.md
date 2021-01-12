@@ -1,7 +1,7 @@
 # Reto 54 miles Serra de Tramuntana
 <img src="images/tramuntana-mallorca.jpg">
 
-Mapa: https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html
+Mapa: <a href="https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html" target="_blank">
 
 ❌ 1 Puig Major (1447m) <br>
 ❌ 2 Puig Major espolón NE (1416m) <br>
