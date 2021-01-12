@@ -32,8 +32,8 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 27 Puig de sa Font E (1071m) <br>
 ❌ 28 Puig d'Alfàbia (1067m) <br>
 ✅ 🥋 29 Puig de na Franquesa (1067m) <br>
-✅☑️ J 30 Puig Teixot (1065m) <br>
-✅☑️ 🥋 J 31 Puig des Teix (1064m) <br>
+✅☑️ 30 Puig Teixot (1065m) <br>
+✅☑️ 🥋 31 Puig des Teix (1064m) <br>
 ❌ 32 Es Frontó de Comafreda (1061m) <br>
 ❌ 33 Morró d'Almallutx E (1058m) <br>
 ❌ 34 Sa Trona (1058m) <br>
@@ -54,7 +54,7 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 49 Espolón Xaragall de sa Camamilla (1013m) <br>
 ❌ 50 Es frontó de sa Mola (1009m) <br>
 ❌ 51 Serra d'Alfàbia Central (1005m) <br>
-✅☑️ J 52 Puig des Vent (1005m) <br>
+✅☑️ 52 Puig des Vent (1005m) <br>
 ❌ 53 Puig de la Criaça d'Alt (1004m) <br>
 ❌ 54 Puig Roig (1003m)  <br>
 <br>
