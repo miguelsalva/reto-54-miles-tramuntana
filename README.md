@@ -3,10 +3,10 @@
 
 Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html)
 
-❌ 1 Puig Major (1447m) <br>
+🗻 1 Puig Major (1447m) <br>
 ❌ 2 Puig Major espolón NE (1416m) <br>
 ❌ 3 Penyal des Migdia (1398m) <br>
-🥋 4 Puig de Massanella (1367m) <br>
+🥋🗻 4 Puig de Massanella (1367m) <br>
 ❌ 5 Penyal des Migdia W (1356m) <br>
 ❌ 6 Puig de Massanella espolón S (1352m) <br>
 ❌ 7 Morró d'en Pelut (1319m) <br>
@@ -14,24 +14,24 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 9 Pa de Figa de Son Torrella (1256m) <br>
 ❌ 10 Serra des Teixos W (1239m) <br>
 ❌ 11 Puig de ses Bassetes (1216m) <br>
-❌ 12 Agulla des Frare (1205m) <br>
+🗻 12 Agulla des Frare (1205m) <br>
 ❌ 13 Puig de sa Mola (1188m) <br>
-🥋 14 Puig den Galileu (1182m) <br>
+🥋🗻 14 Puig den Galileu (1182m) <br>
 ❌ 15 Puig des Prat (1169m) <br>
-❌ 16 Serra de Son Torrella N (1123m) <br>
+🗻 16 Serra de Son Torrella N (1123m) <br>
 ❌ 17 Puig des Tossals Verds (1115m) <br>
-✅☑️🥋🐨 18 Puig de sa Rateta N (1113m) <br>
+✅☑️🥋🐨🗻 18 Puig de sa Rateta N (1113m) <br>
 ❌ 19 Puig de ses Vinyes (1108m) <br>
-❌ 20 Puig Tomir (1104m) <br>
+🗻 20 Puig Tomir (1104m) <br>
 ❌ 21 Puig des Tossals Verds S (1097m) <br>
-✅☑️🥋🐨 22 Puig de l'Ofre (1093m) <br>
+✅☑️🥋🐨🗻 22 Puig de l'Ofre (1093m) <br>
 ✅☑️ 23 Puig de sa Rateta S (1085m) <br>
 ❌ 24 Puig Tomir espolón SW (1083m) <br>
 ❌ 25 Serra de Son Torrella S (1079m) <br>
-❌ 26 Serra de Son Torrella Central (1079m) <br>
+🗻 26 Serra de Son Torrella Central (1079m) <br>
 ❌ 27 Puig de sa Font E (1071m) <br>
 ❌ 28 Puig d'Alfàbia (1067m) <br>
-✅☑️🥋🐨 29 Puig de na Franquesa (1067m) <br>
+✅☑️🥋🐨🗻 29 Puig de na Franquesa (1067m) <br>
 ✅☑️ 30 Puig Teixot (1065m) <br>
 ✅☑️🥋🐨 31 Puig des Teix (1064m) <br>
 ❌ 32 Es Frontó de Comafreda (1061m) <br>
@@ -58,6 +58,7 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 53 Puig de la Criaça d'Alt (1004m) <br>
 ❌ 54 Puig Roig (1003m)  <br>
 <br>
+EG 🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻 <br>
 MS ✅✅✅✅✅✅✅✅✅ <br>
 JC ☑️☑️☑️☑️☑️☑️☑️☑️☑️ <br>
 CM 🥋🥋🥋🥋🥋🥋🥋 <br>
