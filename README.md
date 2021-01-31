@@ -44,7 +44,7 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 39 Puig des Coll des Jou (1052m) <br>
 ❌ 40 Serra d'Alfàbia N (1044m) <br>
 ❌ 41 Morró d'Almallutx W (1042m) <br>
-❌ 42 Puig de n'ali (1035m) <br>
+🥋 42 Puig de n'ali (1035m) <br>
 ❌ 43 Puig de sa Font W (1028m) <br>
 ✅☑️ 44 Puig de sa Rateta E (1027m) <br>
 ✅☑️🥋🐨 45 Puig de Galatzo (1027m) <br>
@@ -61,5 +61,5 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 EG 🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻 <br>
 MS ✅✅✅✅✅✅✅✅✅ <br>
 JC ☑️☑️☑️☑️☑️☑️☑️☑️☑️ <br>
-CM 🥋🥋🥋🥋🥋🥋🥋 <br>
+CM 🥋🥋🥋🥋🥋🥋🥋🥋 <br>
 MM 🐨🐨🐨🐨🐨
