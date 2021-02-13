@@ -3,9 +3,9 @@
 
 Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html)
 
-🗻 1 Puig Major (1447m) <br>
-❌ 2 Puig Major espolón NE (1416m) <br>
-🗻 3 Penyal des Migdia (1398m) <br>
+✅🥋🐨🗻 1 Puig Major (1447m) <br>
+✅🥋🐨 2 Puig Major espolón NE (1416m) <br>
+✅🥋🐨🗻 3 Penyal des Migdia (1398m) <br>
 🥋🗻 4 Puig de Massanella (1367m) <br>
 🗻 5 Penyal des Migdia W (1356m) <br>
 ❌ 6 Puig de Massanella espolón S (1352m) <br>
@@ -58,8 +58,8 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 53 Puig de la Criaça d'Alt (1004m) <br>
 ❌ 54 Puig Roig (1003m)  <br>
 <br>
-MS ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ <br>
+MS ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ <br>
 JC ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️ <br>
 EG 🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻 <br>
-CM 🥋🥋🥋🥋🥋🥋🥋🥋 <br>
-MM 🐨🐨🐨🐨🐨
+CM 🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋 <br>
+MM 🐨🐨🐨🐨🐨🐨🐨🐨
