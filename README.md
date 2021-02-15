@@ -29,21 +29,21 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 24 Puig Tomir espolón SW (1083m) <br>
 ❌ 25 Serra de Son Torrella S (1079m) <br>
 🗻 26 Serra de Son Torrella Central (1079m) <br>
-✅☑️ 27 Puig de sa Font E (1071m) <br>
+✅☑️🐨 27 Puig de sa Font E (1071m) <br>
 ❌ 28 Puig d'Alfàbia (1067m) <br>
 ✅☑️🥋🐨🗻 29 Puig de na Franquesa (1067m) <br>
 ✅☑️ 30 Puig Teixot (1065m) <br>
 ✅☑️🥋🐨 31 Puig des Teix (1064m) <br>
 ❌ 32 Es Frontó de Comafreda (1061m) <br>
-✅☑️ 33 Morró d'Almallutx E (1058m) <br>
+✅☑️🐨 33 Morró d'Almallutx E (1058m) <br>
 ❌ 34 Sa Trona (1058m) <br>
 ✅☑️ 35 Puig de sa Torre (1058m) <br>
 ❌ 36 Serra de na Rius (1057m) <br>
-✅☑️ 37 Morró d'Almallutx Central (1055m) <br>
+✅☑️🐨 37 Morró d'Almallutx Central (1055m) <br>
 ❌ 38 Penya de s'Anyell (1053m) <br>
 ❌ 39 Puig des Coll des Jou (1052m) <br>
 ❌ 40 Serra d'Alfàbia N (1044m) <br>
-✅☑️ 41 Morró d'Almallutx W (1042m) <br>
+✅☑️🐨 41 Morró d'Almallutx W (1042m) <br>
 🥋 42 Puig de n'ali (1035m) <br>
 ✅☑️ 43 Puig de sa Font W (1028m) <br>
 ✅☑️ 44 Puig de sa Rateta E (1027m) <br>
@@ -60,6 +60,6 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 <br>
 MS ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ <br>
 JC ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️ <br>
+MM 🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨 <br>
 EG 🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻 <br>
 CM 🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋 <br>
-MM 🐨🐨🐨🐨🐨🐨🐨🐨
