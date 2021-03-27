@@ -30,7 +30,7 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 25 Serra de Son Torrella S (1079m) <br>
 🗻 26 Serra de Son Torrella Central (1079m) <br>
 ✅☑️🐨 27 Puig de sa Font E (1071m) <br>
-❌ 28 Puig d'Alfàbia (1067m) <br>
+✅🥋🐨 28 Puig d'Alfàbia (1067m) <br>
 ✅☑️🥋🐨🗻 29 Puig de na Franquesa (1067m) <br>
 ✅☑️ 30 Puig Teixot (1065m) <br>
 ✅☑️🥋🐨 31 Puig des Teix (1064m) <br>
@@ -40,26 +40,27 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ✅☑️ 35 Puig de sa Torre (1058m) <br>
 ❌ 36 Serra de na Rius (1057m) <br>
 ✅☑️🐨 37 Morró d'Almallutx Central (1055m) <br>
-❌ 38 Penya de s'Anyell (1053m) <br>
-❌ 39 Puig des Coll des Jou (1052m) <br>
-❌ 40 Serra d'Alfàbia N (1044m) <br>
+✅🥋🐨 38 Penya de s'Anyell (1053m) <br>
+✅🥋🐨 39 Puig des Coll des Jou (1052m) <br>
+✅🥋🐨 40 Serra d'Alfàbia N (1044m) <br>
 ✅☑️🐨 41 Morró d'Almallutx W (1042m) <br>
 ✅🥋 42 Puig de n'ali (1035m) <br>
 ✅☑️ 43 Puig de sa Font W (1028m) <br>
 ✅☑️ 44 Puig de sa Rateta E (1027m) <br>
 ✅☑️🥋🐨 45 Puig de Galatzo (1027m) <br>
-❌ 46 Serra d'Alfàbia S (1025m) <br>
+✅🥋🐨 46 Serra d'Alfàbia S (1025m) <br>
 ❌ 47 Puig de Son Nebot (1025m) <br>
-❌ 48 Puig des Sementer Gran (1013m) <br>
+✅🥋🐨 48 Puig des Sementer Gran (1013m) <br>
 ❌ 49 Espolón Xaragall de sa Camamilla (1013m) <br>
 ❌ 50 Es frontó de sa Mola (1009m) <br>
-❌ 51 Serra d'Alfàbia Central (1005m) <br>
+✅🥋🐨 51 Serra d'Alfàbia Central (1005m) <br>
 ✅☑️ 52 Puig des Vent (1005m) <br>
 ❌ 53 Puig de la Criaça d'Alt (1004m) <br>
 ❌ 54 Puig Roig (1003m)  <br>
 <br>
-MS ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ <br>
+MS ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ <br>
+MM 🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨<br>
 JC ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️ <br>
-MM 🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨<br>
+CM 🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋 <br>
 EG 🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻🗻 <br>
-CM 🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋🥋 <br>
+
