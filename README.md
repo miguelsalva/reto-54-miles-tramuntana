@@ -58,9 +58,9 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 53 Puig de la Criaça d'Alt (1004m) <br>
 ❌ 54 Puig Roig (1003m)  <br>
 <br>
-✅ Miguel - 29  <br>
-🐨 Marce - 23 <br>
-☑️ Juan - 21 <br>
-🥋 Carlos - 19 <br>
-🗻 Elenita - 12  <br>
+✅ MS - 29  <br>
+🐨 MM - 23 <br>
+☑️ JC - 21 <br>
+🥋 CM - 19 <br>
+🗻 EG - 12  <br>
 
