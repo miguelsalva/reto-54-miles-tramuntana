@@ -9,7 +9,7 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 🥋🗻 4 Puig de Massanella (1367m) <br>
 ✅☑️🗻 5 Penyal des Migdia W (1356m) <br>
 ❌ 6 Puig de Massanella espolón S (1352m) <br>
-❌ 7 Morró d'en Pelut (1319m) <br>
+✅ 7 Morró d'en Pelut (1319m) <br>
 ❌ 8 Serra des Teixos E (1258m) <br>
 ❌ 9 Pa de Figa de Son Torrella (1256m) <br>
 ❌ 10 Serra des Teixos W (1239m) <br>
@@ -58,7 +58,7 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 53 Puig de la Criaça d'Alt (1004m) <br>
 ❌ 54 Puig Roig (1003m)  <br>
 <br>
-✅ MS - 29  <br>
+✅ MS - 30  <br>
 🐨 MM - 23 <br>
 ☑️ JC - 21 <br>
 🥋 CM - 19 <br>
