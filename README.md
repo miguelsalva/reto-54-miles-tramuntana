@@ -15,14 +15,14 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 10 Serra des Teixos W (1239m) <br>
 🥋🐨 11 Puig de ses Bassetes (1216m) <br>
 ❌ 12 Agulla des Frare (1205m) <br>
-🐨 13 Puig de sa Mola (1188m) <br>
-🥋🐨 14 Puig den Galileu (1182m) <br>
+✅🥋🐨 13 Puig de sa Mola (1188m) <br>
+✅🥋🐨 14 Puig den Galileu (1182m) <br>
 ❌ 15 Puig des Prat (1169m) <br>
 ❌ 16 Serra de Son Torrella N (1123m) <br>
 ✅☑️🥋🐨 17 Puig des Tossals Verds (1115m) <br>
 ✅☑️🥋🐨 18 Puig de sa Rateta N (1113m) <br>
 ❌ 19 Puig de ses Vinyes (1108m) <br>
-❌ 20 Puig Tomir (1104m) <br>
+🥋 20 Puig Tomir (1104m) <br>
 ✅☑️🐨 21 Puig des Tossals Verds S (1097m) <br>
 ✅☑️🥋🐨 22 Puig de l'Ofre (1093m) <br>
 ✅☑️ 23 Puig de sa Rateta S (1085m) <br>
@@ -58,8 +58,8 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 53 Puig de la Criaça d'Alt (1004m) <br>
 ❌ 54 Puig Roig (1003m)  <br>
 <br>
-✅ MS - 30  <br>
+✅ MS - 32  <br>
+🥋 CM - 25 <br>
 🐨 MM - 23 <br>
-🥋 CM - 23 <br>
 ☑️ JC - 21 <br>
 
