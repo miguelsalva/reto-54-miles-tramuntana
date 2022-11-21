@@ -59,7 +59,7 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ❌ 54 Puig Roig (1003m)  <br>
 <br>
 ✅ MS - 37 <br>
-🥋 CM - 26 <br>
-🐨 MM - 24 <br>
+🥋 CM - 27 <br>
+🐨 MM - 25 <br>
 ☑️ JC - 21 <br>
 
