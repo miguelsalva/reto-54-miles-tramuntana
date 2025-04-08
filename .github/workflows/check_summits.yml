@@ -1,0 +1,57 @@
+name: Check Summits Count
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  check-summits:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Run summit check script
+      run: |
+        #!/bin/bash
+        # Count the number of summits for each person
+        file="README.md"
+        ms_count=$(grep -o "✅" $file | wc -l)
+        cm_count=$(grep -o "🥋" $file | wc -l)
+        mm_count=$(grep -o "🐨" $file | wc -l)
+        jc_count=$(grep -o "☑️" $file | wc -l)
+
+        # Get the declared number of summits from the end of the file
+        declared_ms=$(grep "MS -" $file | awk '{print $3}')
+        declared_cm=$(grep "CM -" $file | awk '{print $3}')
+        declared_mm=$(grep "MM -" $file | awk '{print $3}')
+        declared_jc=$(grep "JC -" $file | awk '{print $3}')
+
+        # Check if the counts match
+        if [ "$ms_count" -ne "$declared_ms" ]; then
+          echo "Mismatch for MS: Found $ms_count, but declared $declared_ms"
+          exit 1
+        fi
+
+        if [ "$cm_count" -ne "$declared_cm" ]; then
+          echo "Mismatch for CM: Found $cm_count, but declared $declared_cm"
+          exit 1
+        fi
+
+        if [ "$mm_count" -ne "$declared_mm" ]; then
+          echo "Mismatch for MM: Found $mm_count, but declared $declared_mm"
+          exit 1
+        fi
+
+        if [ "$jc_count" -ne "$declared_jc" ]; then
+          echo "Mismatch for JC: Found $jc_count, but declared $declared_jc"
+          exit 1
+        fi
+
+        echo "All counts match the declared numbers."
+        exit 0
