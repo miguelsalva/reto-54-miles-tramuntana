@@ -32,6 +32,12 @@ jobs:
         declared_mm=$(grep "MM -" $file | awk '{print $3}')
         declared_jc=$(grep "JC -" $file | awk '{print $3}')
 
+        # Print declared values for debugging
+        echo "Declared MS: $declared_ms"
+        echo "Declared CM: $declared_cm"
+        echo "Declared MM: $declared_mm"
+        echo "Declared JC: $declared_jc"
+
         # Ensure the declared values are integers
         if ! [[ "$declared_ms" =~ ^[0-9]+$ ]]; then
           echo -e "\033[31mError: Declared MS value ($declared_ms) is not an integer\033[0m"
