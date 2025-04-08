@@ -34,24 +34,24 @@ jobs:
 
         # Check if the counts match
         if [ "$ms_count" -ne "$declared_ms" ]; then
-          echo "Mismatch for MS: Found $ms_count, but declared $declared_ms"
+          echo -e "\033[31mMismatch for MS: Found $ms_count, but declared $declared_ms\033[0m"
           exit 1
         fi
 
         if [ "$cm_count" -ne "$declared_cm" ]; then
-          echo "Mismatch for CM: Found $cm_count, but declared $declared_cm"
+          echo -e "\033[31mMismatch for CM: Found $cm_count, but declared $declared_cm\033[0m"
           exit 1
         fi
 
         if [ "$mm_count" -ne "$declared_mm" ]; then
-          echo "Mismatch for MM: Found $mm_count, but declared $declared_mm"
+          echo -e "\033[31mMismatch for MM: Found $mm_count, but declared $declared_mm\033[0m"
           exit 1
         fi
 
         if [ "$jc_count" -ne "$declared_jc" ]; then
-          echo "Mismatch for JC: Found $jc_count, but declared $declared_jc"
+          echo -e "\033[31mMismatch for JC: Found $jc_count, but declared $declared_jc\033[0m"
           exit 1
         fi
 
-        echo "All counts match the declared numbers."
+        echo -e "\033[32mAll counts match the declared numbers.\033[0m"
         exit 0
