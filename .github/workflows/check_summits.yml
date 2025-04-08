@@ -27,10 +27,10 @@ jobs:
         jc_count=$(grep -o "☑️" $file | wc -l)
 
         # Get the declared number of summits from the end of the file
-        declared_ms=$(grep "MS -" $file | awk -F '- ' '{print $2}' | sed 's/<br>//')
-        declared_cm=$(grep "CM -" $file | awk -F '- ' '{print $2}' | sed 's/<br>//')
-        declared_mm=$(grep "MM -" $file | awk -F '- ' '{print $2}' | sed 's/<br>//')
-        declared_jc=$(grep "JC -" $file | awk -F '- ' '{print $2}' | sed 's/<br>//')
+        declared_ms=$(grep "MS -" $file | awk -F '- ' '{print $2}' | sed 's/<br>//' | xargs)
+        declared_cm=$(grep "CM -" $file | awk -F '- ' '{print $2}' | sed 's/<br>//' | xargs)
+        declared_mm=$(grep "MM -" $file | awk -F '- ' '{print $2}' | sed 's/<br>//' | xargs)
+        declared_jc=$(grep "JC -" $file | awk -F '- ' '{print $2}' | sed 's/<br>//' | xargs)
 
         # Print declared values for debugging
         echo "Declared MS: $declared_ms"
