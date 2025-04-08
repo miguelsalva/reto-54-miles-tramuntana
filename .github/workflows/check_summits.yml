@@ -19,12 +19,15 @@ jobs:
     - name: Run summit check script
       run: |
         #!/bin/bash
-        # Count the number of summits for each person
+        # Count the number of summits for each person, excluding the final summary
         file="README.md"
-        ms_count=$(grep -o "✅" $file | wc -l)
-        cm_count=$(grep -o "🥋" $file | wc -l)
-        mm_count=$(grep -o "🐨" $file | wc -l)
-        jc_count=$(grep -o "☑️" $file | wc -l)
+        # Extract the lines with summit counts and exclude the final summary lines
+        summit_lines=$(sed -n '/^[0-9]*| /p' $file | sed '/MS -/Q')
+        
+        ms_count=$(echo "$summit_lines" | grep -o "✅" | wc -l)
+        cm_count=$(echo "$summit_lines" | grep -o "🥋" | wc -l)
+        mm_count=$(echo "$summit_lines" | grep -o "🐨" | wc -l)
+        jc_count=$(echo "$summit_lines" | grep -o "☑️" | wc -l)
 
         # Get the declared number of summits from the end of the file
         declared_ms=$(grep "MS -" $file | awk -F '- ' '{print $2}' | sed 's/<br>//' | xargs)
