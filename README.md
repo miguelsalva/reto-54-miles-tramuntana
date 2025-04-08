@@ -61,5 +61,5 @@ Mapa: [https://sendaytrocha.blogspot.com/p/54-miles-de-tramuntana.html](https://
 ✅ MS - 37 <br>
 🥋 CM - 27 <br>
 🐨 MM - 25 <br>
-☑️ JC - 22 <br>
+☑️ JC - 21 <br>
 
