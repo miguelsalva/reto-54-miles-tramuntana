@@ -32,6 +32,27 @@ jobs:
         declared_mm=$(grep "MM -" $file | awk '{print $3}')
         declared_jc=$(grep "JC -" $file | awk '{print $3}')
 
+        # Ensure the declared values are integers
+        if ! [[ "$declared_ms" =~ ^[0-9]+$ ]]; then
+          echo -e "\033[31mError: Declared MS value is not an integer\033[0m"
+          exit 1
+        fi
+
+        if ! [[ "$declared_cm" =~ ^[0-9]+$ ]]; then
+          echo -e "\033[31mError: Declared CM value is not an integer\033[0m"
+          exit 1
+        fi
+
+        if ! [[ "$declared_mm" =~ ^[0-9]+$ ]]; then
+          echo -e "\033[31mError: Declared MM value is not an integer\033[0m"
+          exit 1
+        fi
+
+        if ! [[ "$declared_jc" =~ ^[0-9]+$ ]]; then
+          echo -e "\033[31mError: Declared JC value is not an integer\033[0m"
+          exit 1
+        fi
+
         # Check if the counts match
         if [ "$ms_count" -ne "$declared_ms" ]; then
           echo -e "\033[31mMismatch for MS: Found $ms_count, but declared $declared_ms\033[0m"
