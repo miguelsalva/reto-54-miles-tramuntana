@@ -22,8 +22,8 @@ jobs:
         # Count the number of summits for each person, excluding the final summary
         file="README.md"
         # Extract the lines with summit counts and exclude the final summary lines
-        summit_lines=$(sed -n '/^[0-9]*| /p' $file | sed '/MS -/Q')
-        
+        summit_lines=$(sed '/MS -/Q' $file)
+
         ms_count=$(echo "$summit_lines" | grep -o "✅" | wc -l)
         cm_count=$(echo "$summit_lines" | grep -o "🥋" | wc -l)
         mm_count=$(echo "$summit_lines" | grep -o "🐨" | wc -l)
